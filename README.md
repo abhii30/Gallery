@@ -9,7 +9,7 @@ Personlized Photo Gallery created to upload and view images
 
 # Screenshots
 
-![S1]](Screenshot5.png)
+![S1](Screenshot5.png)
 ![S2](Screenshot6.png)
 
 # Installing
