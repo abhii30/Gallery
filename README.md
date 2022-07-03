@@ -16,21 +16,21 @@ Personlized Photo Gallery created to upload and view images
 
 Clone the repository
 ```
-> git clone https://github.com/abhii30/Gallery.git Gallery
+git clone https://github.com/abhii30/Gallery.git Gallery
 ```
 
 Change directory to /Gallery
 ```
-> cd Gallery
+cd Gallery
 ```
 
 Install dependencies
 ```
-> npm i
+npm install
 ```
 Start compiliation
 ```
-> npm start
+npm start
 ```
 # Author
 
