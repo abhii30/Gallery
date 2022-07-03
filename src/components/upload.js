@@ -41,6 +41,7 @@ const UploadImage = () => {
           </div>
         )}
         {image && <ProgressBar image={image} setImage={setImage} />}
+        <br></br>
       </div>
     </form>
   );
