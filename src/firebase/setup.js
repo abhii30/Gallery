@@ -10,7 +10,6 @@ var firebaseConfig = {
   storageBucket: "image-loader-af30f.appspot.com",
   messagingSenderId: "495991840360",
   appId: "1:495991840360:web:a2ee45ee34700af45ea5dd",
-  measurementId: "G-T1Y5KVJWX5",
 };
 
 // Initialize Firebase
