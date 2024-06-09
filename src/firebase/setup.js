@@ -4,12 +4,13 @@ import "firebase/compat/firestore";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBLzkuOsC8QX_7OqKwJ5iB6UF0x9o5kGPY",
-  authDomain: "imageloader-d1044.firebaseapp.com",
-  projectId: "imageloader-d1044",
-  storageBucket: "imageloader-d1044.appspot.com",
-  messagingSenderId: "561888683749",
-  appId: "1:561888683749:web:c9decdea4936e7754b160c"
+  apiKey: "AIzaSyAMChU1R4ZflkJ1ES-hkYnWqeUVUBSbkxs",
+  authDomain: "image-loader-af30f.firebaseapp.com",
+  projectId: "image-loader-af30f",
+  storageBucket: "image-loader-af30f.appspot.com",
+  messagingSenderId: "495991840360",
+  appId: "1:495991840360:web:a2ee45ee34700af45ea5dd",
+  measurementId: "G-T1Y5KVJWX5",
 };
 
 // Initialize Firebase
